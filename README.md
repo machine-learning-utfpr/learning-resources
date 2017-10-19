@@ -1,3 +1,5 @@
+<img src="https://github.com/aprendizado-de-maquina-utfpr/materiais/blob/master/logo.png" width="700">
+
 ## Summary
 
 * [Online Courses](#online-courses)
