@@ -20,7 +20,7 @@
   * [MIT OCW - Linear Algebra (Gilbert Strang)](https://ocw.mit.edu/courses/mathematics/18-06-linear-algebra-spring-2010/)
 * Machine Learning Fundamentals
   * [Coursera - Machine Learning (Andrew Ng)](https://www.coursera.org/learn/machine-learning)  
-  * [edX - Learning from Data (Yaser Abu-Mostafa)](https://www.edx.org/course/learning-data-introductory-machine-caltechx-cs1156x-0)  
+  * [edX - Learning from Data (Yaser Abu-Mostafa)](https://work.caltech.edu/telecourse.html)  
   * [UC Berkeley - Intro to AI (Dan Klein)](http://ai.berkeley.edu/home.html)
 * Deep Learning
   * [fast.ai - Practical Deep Learning for Coders (Jeremy Howard)](http://course.fast.ai/)
@@ -31,7 +31,7 @@
   * [Stanford - CS234: Reinforcement Learning (Emma Brunskill)](http://web.stanford.edu/class/cs234/index.html)
   * [UC Berkeley - Deep Reinforcement Learning (Sergey Levine)](http://rll.berkeley.edu/deeprlcourse/)
 
-## Midia
+## Midias
 
 * Reddit
   * [Machine Learning](https://www.reddit.com/r/MachineLearning/)
