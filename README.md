@@ -43,6 +43,8 @@
   * [Siraj Raval](https://www.youtube.com/channel/UCWN3xxRkmTPmbKwht9FuE5A), [Two Minute Papers](https://www.youtube.com/channel/UCbfYPyITQ-7l4upoX8nvctg)
 * Podcasts
   * [Talking Machines](http://www.thetalkingmachines.com)
+* Newsletter
+  * [The Wild Week in AI](https://www.getrevue.co/profile/wildml)
 
 ## Books
 * **Learning From Data**. Y. Abu-Mostafa, M. Magdon-Ismail, and H-T. Lin, AMLbook.com, 2012.  
