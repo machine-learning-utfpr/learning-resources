@@ -1,4 +1,4 @@
-<img src="https://github.com/aprendizado-de-maquina-utfpr/materiais/blob/master/logo.png" width="700">
+<img src="https://github.com/machine-learning-utfpr/learning-resources/blob/master/logo.png" width="700">
 
 ## Summary
 
