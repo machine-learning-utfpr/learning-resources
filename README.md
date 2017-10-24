@@ -18,6 +18,7 @@
   * [edX - Introduction to Probability (John Tsitsiklis)](https://www.edx.org/course/introduction-probability-science-mitx-6-041x-2)  
   * [Udacity - Intro to Statistics (Sebastian Thrun)](https://www.udacity.com/course/intro-to-statistics--st101)  
   * [MIT OCW - Linear Algebra (Gilbert Strang)](https://ocw.mit.edu/courses/mathematics/18-06-linear-algebra-spring-2010/)
+  * [YouTube - The Essence of Linear Algebra (3Blue1Brown)](https://www.youtube.com/playlist?list=PLZHQObOWTQDPD3MizzM2xVFitgF8hE_ab)
 * Machine Learning Fundamentals
   * [Coursera - Machine Learning (Andrew Ng)](https://www.coursera.org/learn/machine-learning)  
   * [edX - Learning from Data (Yaser Abu-Mostafa)](https://work.caltech.edu/telecourse.html)  
